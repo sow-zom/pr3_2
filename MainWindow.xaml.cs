@@ -29,7 +29,7 @@ namespace pr3_2
         {
             double material = 0;
             switch (ComboBox_1.Text)
-            {
+            { 
                 case "Метал": material = 0.05; break;
                 case "Дерево": material = 0.25; break;
                 case "Металопластик": material = 0.15; break;
